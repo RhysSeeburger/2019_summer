@@ -1,5 +1,5 @@
 # 2019_summer
-The main results of my summer research project at the IFA in Edinburgh
+The main results of my summer research project at the IFA in Edinburgh, supervised by Dr Marika Asgari and Prof Catherine Heymans
 
 I started with the ab_model program, in order to familiarise myself with concepts such as parameter estimation using chi-squared, and general practises in research and programming. I also gained insight into the chainconsumer package
 
