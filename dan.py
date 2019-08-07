@@ -73,6 +73,8 @@ def post(x, datasets, logprior, loglike0, factor, length, c_raw):
         return -np.inf
     return lp + like(x, datasets, loglike0, factor, length, c_raw)
 
+#from here on, the code is my own again
+
 def flat(x):
     om, sig = x
     if 0. <= om <= 1. and 0. <= sig <= 1.:
